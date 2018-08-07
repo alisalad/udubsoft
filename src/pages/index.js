@@ -6,7 +6,7 @@ const IndexPage = () => (
     <h1>Welcome to my website</h1>
     <p>
       Website kaan waxaa lagu sameeyay Gatsby, oo React Framework. waan tijaabo.
-      waxbaan ka bedeli doonaa dhawaan, Haduu Alla idmo.
+      waxbaan ka bedeli doonaa dhawaan. Haduu Alla idmo.
     </p>
   </div>
 )
