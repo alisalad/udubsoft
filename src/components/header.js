@@ -7,6 +7,7 @@ import logo from '../images/udub-3.svg'
 const HeaderWrapper = styled.div`
   background: #402060;
   margin-bottom: 0rem;
+  margin-top: -1.5rem;
 
   h1 {
     img {

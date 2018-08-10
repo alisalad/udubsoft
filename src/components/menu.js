@@ -6,9 +6,8 @@ const Menu = () => (
     style={{
       background: '#C7D6DD',
       fontFamily: 'montserrat',
-      fontWeight: '700',
+      fontWeight: '300',
       fontSize: '14px',
-      fontKerning: 'auto',
       paddingTop: '10px',
     }}
   >

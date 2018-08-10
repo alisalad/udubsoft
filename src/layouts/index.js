@@ -4,7 +4,8 @@ import Helmet from 'react-helmet'
 
 import Menu from '../components/menu'
 import Header from '../components/header'
-//import FooterPage from '../components/footer'
+import Footer from '../components/footer'
+
 import './index.css'
 
 const Layout = ({ children, data }) => (
@@ -16,8 +17,9 @@ const Layout = ({ children, data }) => (
         { name: 'keywords', content: 'sample, something' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
     <Menu />
+    <Header siteTitle={data.site.siteMetadata.title} />
+    <Footer />
     <div
       style={{
         margin: '0 auto',
