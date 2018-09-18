@@ -5,8 +5,8 @@ const IndexPage = () => (
   <div>
     <h1>Welcome to Udub Software Solutions</h1>
     <p>
-      Website kaan waxaa lagu sameeyay <h3>Gatsbyjs v1,</h3> Gatsbjs waa React
-      framework. waxbaan ka bedeli doonaa dhawaan. Haduu Alla idmo.
+      Website kaan waxaa lagu sameeyay <strong>Gatsbyjs v1,</strong> Gatsbjs waa
+      React framework. waxbaan ka bedeli doonaa dhawaan. Haduu Alla idmo.
     </p>
   </div>
 )
