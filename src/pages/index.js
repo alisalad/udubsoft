@@ -3,9 +3,9 @@ import Link from 'gatsby-link'
 
 const IndexPage = () => (
   <div>
-    <h1>Welcome to my website</h1>
+    <h1>Welcome to Udub Software Solutions</h1>
     <p>
-      Website kaan waxaa lagu sameeyay Gatsby, oo React Framework. waan tijaabo.
+      Website kaan waxaa lagu sameeyay Gatsbyjs, Gatsbjs waa React framework.
       waxbaan ka bedeli doonaa dhawaan. Haduu Alla idmo.
     </p>
   </div>
