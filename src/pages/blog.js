@@ -4,8 +4,15 @@ import Link from 'gatsby-link'
 const BlogPage = () => (
   <div>
     <h1>Latest News and Information</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente culpa vero expedita dolor, consectetur nemo doloribus ex hic maxime earum quae, sit voluptate sint. Saepe soluta vel quisquam dignissimos beatae dolorem, tenetur illum eligendi! Quos perferendis soluta asperiores optio ipsa.</p>
-    <Link to="/">Go back to the homepage</Link>
+
+    <h2>Announcing Gatsby 2.0.0</h2>
+    <p>
+      We’re incredibly pleased to announce the 2nd major release of Gatsby!
+      Gatsby is a modern website and app generator. Thousands of developers use
+      Gatsby to create amazing blogs, apps, marketing sites, ecommerce,
+      documentation, and more!
+    </p>
+    <Link to="/">HOME</Link>
   </div>
 )
 
