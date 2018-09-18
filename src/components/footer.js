@@ -6,7 +6,7 @@ const Footer = () => (
     style={{
       background: '#9D7CBF',
       fontFamily: 'montserrat',
-      fontWeight: '300',
+      fontWeight: '200',
       fontSize: '15px',
       paddingTop: '10px',
     }}
