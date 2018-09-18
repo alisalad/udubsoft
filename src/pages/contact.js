@@ -6,9 +6,10 @@ const ContactPage = () => (
     <h1>Nala soo xiriir</h1>
     <p>
       Waxii fariin ah ama cabasho waxaad noogu soo diri kartaan e-mailka ah
-      info@udub.com ama alisalad123@gmail.com <br />
-      <h2>Mahadsanidiin</h2>
+      info@udub.com ama alisalad123@gmail.com.
     </p>
+
+    <p>Mahadsanidiin.</p>
     <Link to="/">Go back</Link>
   </div>
 )
